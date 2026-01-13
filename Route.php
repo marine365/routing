@@ -7,7 +7,7 @@ use Closure;
 use Illuminate\Container\Container;
 use Illuminate\Http\Exceptions\HttpResponseException;
 use Illuminate\Http\Request;
-use Illuminate\Routing\Contracts\CallableDispatcher;
+use Illuminate\Routing\CallableDispatcher;
 use Illuminate\Routing\Contracts\ControllerDispatcher as ControllerDispatcherContract;
 use Illuminate\Routing\Controllers\HasMiddleware;
 use Illuminate\Routing\Controllers\Middleware;
