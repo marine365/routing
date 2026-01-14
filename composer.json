@@ -1,6 +1,6 @@
 {
-    "name": "illuminate/routing",
-    "description": "The Illuminate Routing package.",
+    "name": "marine365/routing",
+    "description": "The Illuminate Routing package adapted for marine365.",
     "license": "MIT",
     "homepage": "https://laravel.com",
     "support": {
@@ -31,7 +31,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Illuminate\\Routing\\": ""
+            "marine365\\Routing\\": ""
         }
     },
     "extra": {
