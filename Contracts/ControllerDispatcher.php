@@ -1,6 +1,6 @@
 <?php
 
-namespace Illuminate\Routing\Contracts;
+namespace Marine365\Routing\Contracts;
 
 use Illuminate\Routing\Route;
 

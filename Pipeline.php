@@ -1,6 +1,6 @@
 <?php
 
-namespace Illuminate\Routing;
+namespace Marine365\Routing;
 
 use Illuminate\Contracts\Debug\ExceptionHandler;
 use Illuminate\Contracts\Support\Responsable;

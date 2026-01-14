@@ -1,6 +1,6 @@
 <?php
 
-namespace Illuminate\Routing;
+namespace Marine365\Routing;
 
 use Illuminate\Http\RedirectResponse;
 use Illuminate\Http\Request;

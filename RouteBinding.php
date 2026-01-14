@@ -1,6 +1,6 @@
 <?php
 
-namespace Illuminate\Routing;
+namespace Marine365\Routing;
 
 use Closure;
 use Illuminate\Database\Eloquent\ModelNotFoundException;

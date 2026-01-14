@@ -1,6 +1,6 @@
 <?php
 
-namespace Illuminate\Routing\Console;
+namespace Marine365\Routing\Console;
 
 use Illuminate\Console\Concerns\CreatesMatchingTest;
 use Illuminate\Console\GeneratorCommand;
