@@ -1,6 +1,6 @@
 <?php
 
-namespace Illuminate\Routing\Matching;
+namespace Marine365\Routing\Matching;
 
 use Illuminate\Http\Request;
 use Illuminate\Routing\Route;

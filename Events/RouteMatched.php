@@ -1,6 +1,6 @@
 <?php
 
-namespace Illuminate\Routing\Events;
+namespace Marine365\Routing\Events;
 
 class RouteMatched
 {

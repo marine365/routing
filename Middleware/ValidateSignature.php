@@ -1,6 +1,6 @@
 <?php
 
-namespace Illuminate\Routing\Middleware;
+namespace Marine365\Routing\Middleware;
 
 use Closure;
 use Illuminate\Routing\Exceptions\InvalidSignatureException;

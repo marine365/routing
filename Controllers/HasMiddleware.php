@@ -1,6 +1,6 @@
 <?php
 
-namespace Illuminate\Routing\Controllers;
+namespace Marine365\Routing\Controllers;
 
 interface HasMiddleware
 {

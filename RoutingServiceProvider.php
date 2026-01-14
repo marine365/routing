@@ -1,6 +1,6 @@
 <?php
 
-namespace Illuminate\Routing;
+namespace Marine365\Routing;
 
 use Illuminate\Contracts\Container\BindingResolutionException;
 use Illuminate\Contracts\Routing\ResponseFactory as ResponseFactoryContract;
