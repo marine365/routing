@@ -5,7 +5,7 @@ namespace Marine365\Routing;
 use Illuminate\Contracts\Routing\UrlRoutable;
 use Illuminate\Database\Eloquent\ModelNotFoundException;
 use Illuminate\Database\Eloquent\SoftDeletes;
-use Illuminate\Routing\Exceptions\BackedEnumCaseNotFoundException;
+use Marine365\Routing\Exceptions\BackedEnumCaseNotFoundException;
 use Illuminate\Support\Reflector;
 use Illuminate\Support\Str;
 

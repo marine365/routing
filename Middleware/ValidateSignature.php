@@ -3,7 +3,7 @@
 namespace Marine365\Routing\Middleware;
 
 use Closure;
-use Illuminate\Routing\Exceptions\InvalidSignatureException;
+use Marine365\Routing\Exceptions\InvalidSignatureException;
 use Illuminate\Support\Arr;
 
 class ValidateSignature

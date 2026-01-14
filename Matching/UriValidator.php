@@ -3,7 +3,7 @@
 namespace Marine365\Routing\Matching;
 
 use Illuminate\Http\Request;
-use Illuminate\Routing\Route;
+use Marine365\Routing\Route;
 
 class UriValidator implements ValidatorInterface
 {

@@ -8,7 +8,7 @@ use Illuminate\Contracts\View\Factory as ViewFactory;
 use Illuminate\Http\JsonResponse;
 use Illuminate\Http\Response;
 use Illuminate\Http\StreamedEvent;
-use Illuminate\Routing\Exceptions\StreamedResponseException;
+use Marine365\Routing\Exceptions\StreamedResponseException;
 use Illuminate\Support\Js;
 use Illuminate\Support\Str;
 use Illuminate\Support\Traits\Macroable;

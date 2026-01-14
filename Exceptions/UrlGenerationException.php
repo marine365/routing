@@ -3,7 +3,7 @@
 namespace Marine365\Routing\Exceptions;
 
 use Exception;
-use Illuminate\Routing\Route;
+use Marine365\Routing\Route;
 use Illuminate\Support\Str;
 
 class UrlGenerationException extends Exception

@@ -2,7 +2,7 @@
 
 namespace Marine365\Routing\Contracts;
 
-use Illuminate\Routing\Route;
+use Marine365\Routing\Route;
 
 interface CallableDispatcher
 {
