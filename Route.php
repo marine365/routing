@@ -1,20 +1,20 @@
 <?php
 
-namespace Illuminate\Routing;
+namespace Marine365\Routing;
 
 use BackedEnum;
 use Closure;
 use Illuminate\Container\Container;
 use Illuminate\Http\Exceptions\HttpResponseException;
 use Illuminate\Http\Request;
-use Illuminate\Routing\CallableDispatcher;
-use Illuminate\Routing\Contracts\ControllerDispatcher as ControllerDispatcherContract;
-use Illuminate\Routing\Controllers\HasMiddleware;
-use Illuminate\Routing\Controllers\Middleware;
-use Illuminate\Routing\Matching\HostValidator;
-use Illuminate\Routing\Matching\MethodValidator;
-use Illuminate\Routing\Matching\SchemeValidator;
-use Illuminate\Routing\Matching\UriValidator;
+use Marine365\Routing\CallableDispatcher;
+use Marine365\Routing\Contracts\ControllerDispatcher as ControllerDispatcherContract;
+use Marine365\Routing\Controllers\HasMiddleware;
+use Marine365\Routing\Controllers\Middleware;
+use Marine365\Routing\Matching\HostValidator;
+use Marine365\Routing\Matching\MethodValidator;
+use Marine365\Routing\Matching\SchemeValidator;
+use Marine365\Routing\Matching\UriValidator;
 use Illuminate\Support\Arr;
 use Illuminate\Support\Collection;
 use Illuminate\Support\Str;

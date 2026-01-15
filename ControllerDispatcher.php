@@ -1,9 +1,9 @@
 <?php
 
-namespace Illuminate\Routing;
+namespace Marine365\Routing;
 
 use Illuminate\Container\Container;
-use Illuminate\Routing\Contracts\ControllerDispatcher as ControllerDispatcherContract;
+use Marine365\Routing\Contracts\ControllerDispatcher as ControllerDispatcherContract;
 use Illuminate\Support\Collection;
 
 class ControllerDispatcher implements ControllerDispatcherContract

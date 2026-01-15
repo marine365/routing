@@ -1,10 +1,10 @@
 <?php
 
-namespace Illuminate\Routing;
+namespace Marine365\Routing;
 
 use BackedEnum;
 use Illuminate\Contracts\Routing\UrlRoutable;
-use Illuminate\Routing\Exceptions\UrlGenerationException;
+use Marine365\Routing\Exceptions\UrlGenerationException;
 use Illuminate\Support\Arr;
 use Illuminate\Support\Collection;
 

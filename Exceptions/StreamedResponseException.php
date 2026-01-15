@@ -1,6 +1,6 @@
 <?php
 
-namespace Illuminate\Routing\Exceptions;
+namespace Marine365\Routing\Exceptions;
 
 use Illuminate\Http\Response;
 use RuntimeException;

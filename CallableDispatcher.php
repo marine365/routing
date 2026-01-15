@@ -1,9 +1,9 @@
 <?php
 
-namespace Illuminate\Routing;
+namespace Marine365\Routing;
 
 use Illuminate\Container\Container;
-use Illuminate\Routing\Contracts\CallableDispatcher as CallableDispatcherContract;
+use Marine365\Routing\Contracts\CallableDispatcher as CallableDispatcherContract;
 use ReflectionFunction;
 
 class CallableDispatcher implements CallableDispatcherContract

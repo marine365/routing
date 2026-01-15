@@ -1,6 +1,6 @@
 <?php
 
-namespace Illuminate\Routing;
+namespace Marine365\Routing;
 
 use ArrayObject;
 use Closure;
@@ -15,10 +15,10 @@ use Illuminate\Database\Eloquent\Model;
 use Illuminate\Http\JsonResponse;
 use Illuminate\Http\Request;
 use Illuminate\Http\Response;
-use Illuminate\Routing\Events\PreparingResponse;
-use Illuminate\Routing\Events\ResponsePrepared;
-use Illuminate\Routing\Events\RouteMatched;
-use Illuminate\Routing\Events\Routing;
+use Marine365\Routing\Events\PreparingResponse;
+use Marine365\Routing\Events\ResponsePrepared;
+use Marine365\Routing\Events\RouteMatched;
+use Marine365\Routing\Events\Routing;
 use Illuminate\Support\Arr;
 use Illuminate\Support\Collection;
 use Illuminate\Support\Str;

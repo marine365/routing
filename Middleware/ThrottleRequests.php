@@ -1,13 +1,13 @@
 <?php
 
-namespace Illuminate\Routing\Middleware;
+namespace Marine365\Routing\Middleware;
 
 use Closure;
 use Illuminate\Cache\RateLimiter;
 use Illuminate\Cache\RateLimiting\Unlimited;
 use Illuminate\Http\Exceptions\HttpResponseException;
 use Illuminate\Http\Exceptions\ThrottleRequestsException;
-use Illuminate\Routing\Exceptions\MissingRateLimiterException;
+use Marine365\Routing\Exceptions\MissingRateLimiterException;
 use Illuminate\Support\Collection;
 use Illuminate\Support\InteractsWithTime;
 use RuntimeException;

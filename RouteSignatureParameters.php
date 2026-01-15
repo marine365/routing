@@ -1,6 +1,6 @@
 <?php
 
-namespace Illuminate\Routing;
+namespace Marine365\Routing;
 
 use Illuminate\Support\Reflector;
 use Illuminate\Support\Str;
